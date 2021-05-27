@@ -13,7 +13,7 @@ color: rgb(255, 166, 0);
 
 .header
 {
-	color:rgb(255, 166, 0);font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+	color:rgb(255, 166, 0);font-family: 'Pattaya';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
 }
 .header img
 {
@@ -22,7 +22,19 @@ color: rgb(255, 166, 0);
 
 .login_div
 {
-	background: rgb(0, 0, 0);float: none;border-radius: 15px;
+	background: rgb(0, 0, 0);
+	float: center;
+	border-radius: 15px;
+	margin-right: 60px;
+}
+
+#tiger_image{
+    width: 500px;
+	height: 600px;
+}
+
+#div_image{
+	margin-left: 60px;
 }
 
 .logo
